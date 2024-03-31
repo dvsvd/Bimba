@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>C:\Users\Admin\source\repos\Bimba\Bimba\bin\x64\Debug\Bimba.dll</Assembly>
+                <AddInId>129B2172-5EDB-4B53-90EB-57F02E5A9F45</AddInId>
+                <FullClassName>Bimba.ViewReader</FullClassName>
+                <Text>ViewReader</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+</RevitAddIns>
